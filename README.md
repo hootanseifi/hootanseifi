@@ -6,10 +6,10 @@ I build production-oriented LLM systems: agents, tool calling, RAG, fine-tuning,
 
 ### Featured
 
-**[Astra — Enterprise AI Agent Platform](https://github.com/hnjgp/astra-ai-platform)**  
+**[Astra — Enterprise AI Agent Platform](https://github.com/hootanseifi/astra-ai-platform)**  
 LangGraph agent with agentic RAG on PostgreSQL + pgvector, role-based tool permissions, human-in-the-loop approval, guardrails, MCP server, Prometheus metrics, 407 tests and an evaluation gate in CI.
 
-**[AI Medical Notes SaaS](https://github.com/hnjgp/ai-medical-notes-saas)**  
+**[AI Medical Notes SaaS](https://github.com/hootanseifi/ai-medical-notes-saas)**  
 Turns consultation notes into a visit summary, next steps and a patient email, streamed in real time. Next.js, FastAPI, OpenAI, Clerk subscriptions, deployed on Vercel.
 
 ### Stack
