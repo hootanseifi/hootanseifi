@@ -4,12 +4,12 @@
 
 I build production-oriented LLM systems: agents, tool calling, RAG, fine-tuning, evaluation and guardrails, with a focus on code that is testable, secure and maintainable. M.Sc. in Electrical Engineering (Artificial Intelligence).
 
-🌐 **Live portfolio: [hootanseifi.pro](https://hootanseifi.pro/en)**: interview my digital twin, score a job ad against my experience, and try to beat my team of seven AI trading agents.
+🌐 **Live portfolio: [hootanseifi.pro](https://hootanseifi.pro/en)**: ask my bilingual RAG assistant about my work, score a job ad against my experience, and try to beat my team of seven AI trading agents.
 
 ### Featured
 
 **[hootanseifi.pro: my personal site as a production AI system](https://github.com/hootanseifi/hootan-site)**  
-A resume-grounded digital twin with hybrid search (pgvector + BM25), an honest job-fit scorer, and seven LangGraph agents that paper-trade Bitcoin under risk rules enforced in code. Real-model evals (72/72, 9/9, 20/20), 225 backend tests, CI/CD with automatic rollback, about $3/month in AI cost.
+A bilingual RAG system grounded in my resume and project docs, with hybrid retrieval (BM25 + pgvector, RRF) and cited sources; an honest job-fit scorer; and seven LangGraph agents that paper-trade Bitcoin under risk rules enforced in code. Real-model evals (72/72, 9/9, 20/20), 225 backend tests, CI/CD with a tested rollback, and daily and monthly AI budget caps.
 
 **[Astra: Enterprise AI Agent Platform](https://github.com/hootanseifi/astra-ai-platform)**  
 LangGraph agent with agentic RAG on PostgreSQL + pgvector, role-based tool permissions, human-in-the-loop approval, guardrails, MCP server, Prometheus metrics, 407 tests and an evaluation gate in CI.
